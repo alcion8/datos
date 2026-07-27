@@ -1,0 +1,50 @@
+[
+  {
+    "code": "CAT-2026-03",
+    "zone": "Centro Histórico",
+    "address": "Carrera 5 entre calles 1 y 2",
+    "owner": "Mario Superlano",
+    "docId": "11789654",
+    "frente": 18,
+    "fondo": 45,
+    "coords": "-12.02578899 -77.024877",
+    "limits": "Norte: calle2, Sur Calle 1, Este Carrera 6, Oeste Carrera7",
+    "usage": "Residencial",
+    "status": "Titulado",
+    "value": 24000,
+    "date": "2026-07-27",
+    "user": "USR-CAT-01"
+  },
+  {
+    "code": "CAT-2026-001",
+    "zone": "Centro Histórico",
+    "address": "Av. Bolívar #450 entre Calle 4 y 5",
+    "owner": "Constructora Urbana S.A.",
+    "docId": "J-30948271-0",
+    "frente": 20,
+    "fondo": 40,
+    "coords": "-12.04637, -77.04279",
+    "limits": "N: Av. Bolívar / S: Lote 12",
+    "usage": "Comercial",
+    "status": "Titulado",
+    "value": 120000,
+    "date": "2026-01-15",
+    "user": "USR-CAT-01"
+  },
+  {
+    "code": "CAT-2026-NUEVO",
+    "zone": "San Martín",
+    "address": "Calle Nueva #100",
+    "owner": "Carlos Alberto Nuevo",
+    "docId": "0801199988776",
+    "frente": 15,
+    "fondo": 30,
+    "coords": "-12.0500, -77.0400",
+    "limits": "N: Calle Nueva / S: Lote 2",
+    "usage": "Residencial",
+    "status": "Titulado",
+    "value": 75000,
+    "date": "2026-07-27",
+    "user": "USR-CAT-01"
+  }
+]
